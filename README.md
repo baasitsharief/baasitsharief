@@ -40,12 +40,3 @@
 [![Spotify](https://novatorem-beige-three.vercel.app/api/spotify)](https://open.spotify.com/user/31ersehmw3n7cjhqadh3jgltq6bi)
 
 </div>
-
-<details>
-  <summary> :zap: Recent GitHub Activity </summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>

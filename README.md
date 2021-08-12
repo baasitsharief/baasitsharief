@@ -18,7 +18,7 @@
 
 ### All of my projects are open sourced and well documented in my GitHub repositories. Pull requests are welcomed.
 
-## Connect with me: [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/)
+## Connect with me: [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/)
 
 
 <div align="center">

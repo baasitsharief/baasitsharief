@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-### Hi there I'm Baasit
+## Hi there I'm Baasit
 
 ![First](media/first.gif)
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-[![Spotify](https://baasitsharief.vercel.app/api/spotify)](https://open.spotify.com/user/31ersehmw3n7cjhqadh3jgltq6bi)
+[![Spotify](https://novatorem-beige-three.vercel.app/api/spotify)](https://open.spotify.com/user/31ersehmw3n7cjhqadh3jgltq6bi)
 
 </div>
 

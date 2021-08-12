@@ -13,11 +13,11 @@
 - I have an experience of a year in the field of Data Analytics and Data Science in Standard Chartered GBS, specifically in AI fairness and bias in Image classification and Object Detection, and Text Classification and NER tagging use cases
 - I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases  
 - I am well versed with Python, C, C++, Java, along with technology modules like :
-<br> <br> <small>1. pandas(Data Preprocessing),  </small>
-<br> <br> <small>2. spacy and nltk (NLP), </small>
-<br> <br> <small>3. openCV (Image Processing),  </small>
-<br> <br> <small>4. sklearn (Traditional ML techniques),  </small>
-<br> <br> <small>5. Tensorflow and Keras (Deep Learning Frameworks) etc </small>
+<br> <small>1. pandas(Data Preprocessing),  </small>
+<br> <small>2. spacy and nltk (NLP), </small>
+<br> <small>3. openCV (Image Processing),  </small>
+<br> <small>4. sklearn (Traditional ML techniques),  </small>
+<br> <small>5. Tensorflow and Keras (Deep Learning Frameworks) etc </small>
 - I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 

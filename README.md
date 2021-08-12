@@ -8,8 +8,8 @@
 
 ## About me
 
-- I am a 22 year old B.Engg in ECE undergraduate from BITS, currently pursuing my MS in CSE from University at Buffalo.
-- I have worked as a Research Intern at Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru for 6 months in their traffic analytics team
+- I am a 22 year old B.Engg in ECE undergraduate from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
+- I have worked as a Research Intern at Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I have an experience of a year in the field of Data Analytics and Data Science in Standard Chartered GBS, specifically in AI fairness and bias in Image classification and Object Detection, and Text Classification and NER tagging use cases
 - I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases  
 - I am well versed with Python, C, C++, Java, along with technology modules like :

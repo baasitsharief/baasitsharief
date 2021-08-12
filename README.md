@@ -27,9 +27,9 @@
 
 ## Github stats
 
-[![baasit-sharief's github stats](https://github-readme-stats-8alnjiwr1-baasitsharief.vercel.app/api?username=baasitsharief&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=EVSqUl-FtCI)
+[![baasit-sharief's github stats](https://github-readme-stats-baasitsharief.vercel.app/api?username=baasitsharief&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=EVSqUl-FtCI)
 
-[![baasit-sharief's top langs](https://github-readme-stats-8alnjiwr1-baasitsharief.vercel.app/api/top-langs/?username=baasitsharief&theme=synthwave)](https://github.com/baasitsharief/github-readme-stats)
+[![baasit-sharief's top langs](https://github-readme-stats-baasitsharief.vercel.app/api/top-langs/?username=baasitsharief&theme=synthwave)](https://github.com/baasitsharief/github-readme-stats)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-9mt09hbfi-baasitsharief.vercel.app/api/spotify)](https://open.spotify.com/user/31ersehmw3n7cjhqadh3jgltq6bi)
+[![Spotify](https://baasitsharief.vercel.app/api/spotify)](https://open.spotify.com/user/31ersehmw3n7cjhqadh3jgltq6bi)
 
 </div>
 

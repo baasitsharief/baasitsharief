@@ -17,7 +17,8 @@
 <br> <small>2. spacy and nltk (NLP), </small>
 <br> <small>3. openCV (Image Processing),  </small>
 <br> <small>4. sklearn (Traditional ML techniques),  </small>
-<br> <small>5. Tensorflow and Keras (Deep Learning Frameworks) etc </small>
+<br> <small>5. Tensorflow and Keras (Deep Learning Frameworks)</small>
+<br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) etc </small>
 - I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 

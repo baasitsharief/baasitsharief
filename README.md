@@ -9,6 +9,11 @@
 ## About me
 
 - I am a 22 year old B.Engg in ECE from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
+- Fall 2021 coursework :
+<br> <small>1. [CSE 521 Operating Systems](https://www.youtube.com/watch?v=1xo9Z5u20b4),  </small>
+<br> <small>2. [CSE 531 Algorithm Analysis and Design](https://www.youtube.com/watch?v=nqw7RtVE62g),  </small>
+<br> <small>3. [CSE 573 Computer Vision and Image Processing](https://www.youtube.com/watch?v=OUyPXsvRdcU),  </small>
+<br> <small>4. [CSE 574 Intro to Machine Learning](https://www.youtube.com/watch?v=wOBS4xtXHGU),  </small>
 - I have worked as a Research Intern at Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I have an experience of a year in the field of Data Analytics and Data Science in Standard Chartered GBS, specifically in AI fairness and bias in Image classification and Object Detection, and Text Classification and NER tagging use cases
 - I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases  
@@ -20,17 +25,19 @@
 <br> <small>5. Tensorflow and Keras (Deep Learning Frameworks)</small>
 <br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) etc </small>
 - I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
+
 - Plans for the Winter Break:
 <br> <small>1. Hadoop/Apache Spark,  </small>
 <br> <small>2. AWS/GCP foundations, </small>
 <br> <small>3. Docker/Kubernetes,  </small>
 <br> <small>4. ML Deployment APIs - flask and FastAPI  </small>
+
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 
 
 ### All of my projects are open sourced and well documented in my GitHub repositories. Pull requests are welcomed.
 
-### Connect with me: [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/)
+### Connect with me: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/)
 <div align="center">
 
 ## Github stats

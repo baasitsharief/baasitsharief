@@ -20,6 +20,11 @@
 <br> <small>5. Tensorflow and Keras (Deep Learning Frameworks)</small>
 <br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) etc </small>
 - I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
+- Plans for the Winter Break:
+<br> <small>1. Hadoop/Apache Spark,  </small>
+<br> <small>2. AWS/GCP foundations, </small>
+<br> <small>3. Docker/Kubernetes,  </small>
+<br> <small>4. ML Deployment APIs - flask and FastAPI  </small>
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 
 

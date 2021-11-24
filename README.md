@@ -49,7 +49,7 @@
 
 [![baasit-sharief's github stats](https://github-readme-stats-baasitsharief.vercel.app/api?username=baasitsharief&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=EVSqUl-FtCI)
 
-[![baasit-sharief's top langs](https://github-readme-stats-baasitsharief.vercel.app/api/top-langs/?username=baasitsharief&hide=Jupyter+Notebook&theme=synthwave)](https://github.com/baasitsharief/github-readme-stats)
+[![baasit-sharief's top langs](https://github-readme-stats-baasitsharief.vercel.app/api/top-langs/?username=baasitsharief&hide=Jupyter+Notebook,html&theme=synthwave)](https://github.com/baasitsharief/github-readme-stats)
 
 </div>
 

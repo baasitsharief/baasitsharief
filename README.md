@@ -21,7 +21,7 @@
 <br> <small>4. [CSE 676 Deep Learning](https://catalog.buffalo.edu/courses/index.php?abbr=CSE&num=676),  </small>
 - I have worked as a Research Intern at Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I have an experience of a year in the field of Data Analytics and Data Science in Standard Chartered GBS, specifically in AI fairness and bias in Image classification and Object Detection, and Text Classification and NER tagging use cases
-- I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases  
+- Specifically, I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases at Standard Chartered GBS
 - I am well versed with Python, C, C++, Java, along with technology modules like :
 <br> <small>1. pandas(Data Preprocessing),  </small>
 <br> <small>2. spacy and nltk (NLP), </small>

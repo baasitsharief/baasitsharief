@@ -31,9 +31,9 @@
 <br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) etc </small>
 - I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
 
-- Plans for the Winter Break:
+- Learning in progress:
 <br> <small>1. Hadoop/Apache Spark,  </small>
-<br> <small>2. AWS/GCP foundations, </small>
+<br> <small>2. Data Engineering in Python, </small>
 <br> <small>3. Docker/Kubernetes,  </small>
 <br> <small>4. ML Deployment APIs - flask and FastAPI  </small>
 

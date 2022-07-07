@@ -8,7 +8,8 @@
 
 ## About me
 
-- I am a 22 year old B.Engg in ECE from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
+- I am a 23 year old B.Engg in ECE from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
+- I am also looking for AIML/SDE roles for Spring 2023.
 - Fall 2021 coursework :
 <br> <small>1. [CSE 521 Operating Systems](https://www.youtube.com/watch?v=1xo9Z5u20b4),  </small>
 <br> <small>2. [CSE 531 Algorithm Analysis and Design](https://www.youtube.com/watch?v=nqw7RtVE62g),  </small>
@@ -45,6 +46,8 @@
 ### All of my projects are open sourced and well documented in my GitHub repositories. Pull requests are welcomed.
 
 ### Connect with me: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/)
+<div align="center">
+[<img align="center" alt="Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />](https://discordapp.com/users/383313790143299587)
 <div align="center">
 
 ## Github stats

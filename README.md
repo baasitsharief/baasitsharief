@@ -45,11 +45,10 @@
 
 ### All of my projects are open sourced and well documented in my GitHub repositories. Pull requests are welcomed.
 
-### Connect with me: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/)
-<div align="center">
-[<img align="center" alt="Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />](https://discordapp.com/users/383313790143299587)
-<div align="center">
+### Connect with me: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/) [<img align="center" alt="Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />](https://discordapp.com/users/383313790143299587)
 
+<div align="center">
+  
 ## Github stats
 
 [![baasit-sharief's github stats](https://github-readme-stats-baasitsharief.vercel.app/api?username=baasitsharief&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=EVSqUl-FtCI)

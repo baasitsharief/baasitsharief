@@ -37,8 +37,6 @@
 - Learning in progress:
 <br> <small>1. Hadoop/Apache Spark,  </small>
 <br> <small>2. Data Engineering in Python, </small>
-<br> <small>3. Docker/Kubernetes,  </small>
-<br> <small>4. ML Deployment APIs - flask and FastAPI  </small>
 
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 

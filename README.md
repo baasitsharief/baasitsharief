@@ -22,6 +22,8 @@
 <br> <small>4. [CSE 676 Deep Learning](https://catalog.buffalo.edu/courses/index.php?abbr=CSE&num=676),  </small>
 - Summer 2022 coursework :
 <br> <small>1. [CSE 705 Advancements in Deep Learning and Reinforcement Learning](https://cse.buffalo.edu/~avereshc/),  </small>
+- Fall 2022 coursework :
+<br> <small>1. [CSE 535 Introduction to Information Retrieval](https://github.com/sougata-ub/sougata-ub.github.io/files/9240948/CSE535-Syllabus-Fall2022.pdf) </small>
 - I have worked as a Research Intern at Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I have an experience of a year in the field of Data Analytics and Data Science in Standard Chartered GBS, specifically in AI fairness and bias in Image classification and Object Detection, and Text Classification and NER tagging use cases
 - Specifically, I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases at Standard Chartered GBS
@@ -30,8 +32,9 @@
 <br> <small>2. spacy and nltk (NLP), </small>
 <br> <small>3. openCV (Image Processing),  </small>
 <br> <small>4. sklearn (Traditional ML techniques),  </small>
-<br> <small>5. Tensorflow and Keras (Deep Learning Frameworks)</small>
-<br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) etc </small>
+<br> <small>5. Tensorflow and Keras, PyTorch (Deep Learning Frameworks)</small>
+<br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) </small>
+<br> <small>7. OpenAI Gym and Stable Baselines for Reinforcement Learning </small>
 - I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
 
 - Learning in progress:

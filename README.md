@@ -35,7 +35,8 @@
 <br> <small>5. Tensorflow and Keras, PyTorch (Deep Learning Frameworks)</small>
 <br> <small>6. NVIDIA TensorRT (DL Optimisation libraries) </small>
 <br> <small>7. OpenAI Gym and Stable Baselines for Reinforcement Learning </small>
-- I am currently learning Web Development in Python and Javascript to get an understanding of deploying ML pipelines
+<br> <small>8. Distributed Systems Programming using Docker with Python and JS </small>
+<br> <small>9. API development with Flask/FastAPI/NodeJS+ExpressJS
 
 - Learning in progress:
 <br> <small>1. Hadoop/Apache Spark,  </small>

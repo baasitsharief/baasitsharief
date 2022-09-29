@@ -8,7 +8,7 @@
 
 ## About me
 
-- I am a 23 year old B.Engg in ECE from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
+- I am a 23 year old B.Engg graduate in ECE from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
 - I am also looking for AIML/SDE roles for Spring 2023.
 - Fall 2021 coursework :
 <br> <small>1. [CSE 521 Operating Systems](https://www.youtube.com/watch?v=1xo9Z5u20b4),  </small>

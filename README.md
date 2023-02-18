@@ -8,8 +8,8 @@
 
 ## About me
 
-- I am a 23 year old B.Engg graduate in ECE from BITS Pilani, India, currently pursuing my MS in CSE from University at Buffalo, NY.
-- I am also looking for AIML/SDE roles for Spring 2023.
+- I am a 23 year old with an MS in CSE from University at Buffalo, NY and B.Engg in ECE from BITS Pilani, India.
+- Currently working as a Data Scientist at [VertaAI](https://github.com/VertaAI)
 - Fall 2021 coursework :
 <br> <small>1. [CSE 521 Operating Systems](https://www.youtube.com/watch?v=1xo9Z5u20b4),  </small>
 <br> <small>2. [CSE 531 Algorithm Analysis and Design](https://www.youtube.com/watch?v=nqw7RtVE62g),  </small>
@@ -38,9 +38,8 @@
 <br> <small>8. Distributed Systems Programming using Docker with Python and JS </small>
 <br> <small>9. API development with Flask/FastAPI/NodeJS+ExpressJS
 
-- Learning in progress:
-<br> <small>1. Hadoop/Apache Spark,  </small>
-<br> <small>2. Data Engineering in Python, </small>
+- Learning in progress
+  ML System Design and MLOps
 
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 

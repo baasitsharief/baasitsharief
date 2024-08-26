@@ -9,7 +9,7 @@
 ## About me
 
 - I am a 23 year old with an MS in CSE from University at Buffalo, NY and B.Engg in ECE from BITS Pilani, India.
-- Currently working as a Data Scientist at [Cloudera](https://github.com/Cloudera)
+- Currently working as a Sr. Data Scientist, AI at [Cloudera](https://github.com/Cloudera)
 - I have worked as a Research Intern at [Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru](https://github.com/rbccps-iisc) for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I was working on developing a novel approach to Data Suitability for images and text datasets as well as working on explainability and robustness for Machine learning Models (including Deep Learning Models) for Image classification and Object Detection, and Text Classification and NER tagging use cases at Standard Chartered GBS
 

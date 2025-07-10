@@ -8,11 +8,11 @@
 
 ## About me
 
-- I am a 25 year old with an MS in CSE from the University at Buffalo, NY and a B.Engg in ECE from BITS Pilani, India.
+- I am a 26 year old with an MS in CSE from the University at Buffalo, NY and a B.Engg in ECE from BITS Pilani, India.
 - Currently working as a Sr. Data Scientist, AI at [Cloudera](https://github.com/Cloudera)
 - I have worked as a Research Intern at [Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru](https://github.com/rbccps-iisc) for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I have worked in Responsible AI during my time at Standard GBS
-- I was working at Verta to make cool Data Science tools for GenAI and traditional ML builders, now acquired by Cloudera, I have been working on the same here
+- I was working at [Verta](https://github.com/vertaAI) to make cool Data Science tools for GenAI and traditional ML builders, now acquired by Cloudera, I have been working on the same here
 
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 

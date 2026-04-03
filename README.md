@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there I'm Baasit :wave: 
+## Hi there, I'm Baasit :wave: 
 
 ![First](media/first.gif)
 
@@ -8,7 +8,7 @@
 
 ## About me
 
-- I am a 26 year old with an MS in CSE from the University at Buffalo, NY and a B.Engg in ECE from BITS Pilani, India.
+- I am a 27-year-old with an MS in CSE from the University at Buffalo, NY and a B.Engg in ECE from BITS Pilani, India.
 - Currently working as a Sr. Data Scientist, AI at [Cloudera](https://github.com/Cloudera)
 - I have worked as a Research Intern at [Robert Bosch Centre of Cyber Physical Systems @ Indian Institute of Science, Bengaluru](https://github.com/rbccps-iisc) for 6 months in their traffic analytics team on computer vision models, specifically object detection like YOLOv3
 - I have worked in Responsible AI during my time at Standard GBS
@@ -17,7 +17,7 @@
 - :zap: Fun Fact - I am an avid gamer :video_game: and play the guitar :guitar: as well
 
 
-### All of my projects are open sourced and well documented in my GitHub repositories. Pull requests are welcomed.
+### All of my projects are open-sourced and well-documented in my GitHub repositories. Pull requests are welcome.
 
 ### Connect with me: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/baasit-sharief/) [<img align="center" alt="Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />](https://discordapp.com/users/383313790143299587)
 
